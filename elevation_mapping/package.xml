@@ -17,6 +17,7 @@
   <depend>boost</depend>
   <depend>eigen</depend>
   <depend>eigen_conversions</depend>
+  <depend>filters</depend>
   <depend>grid_map_core</depend>
   <depend>grid_map_filters</depend>
   <depend>grid_map_msgs</depend>
